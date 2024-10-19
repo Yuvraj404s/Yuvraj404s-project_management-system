@@ -20,15 +20,6 @@ by default your server running in port `http://localhost:9000` and cors origin/f
 - Step 4: Run project
 in your backend `npm run serve` for start node server and `npm run start` for frontend
 
-## Packages used
-- Tailwindcss
-- Headlessui
-- React router
-- Axios
-- UUID
-- Joi
-- Cors
-- Dotenv
 
 
 ## Project Screenshot
